@@ -1,6 +1,6 @@
 {
-  "name": "angular-electron",
-  "version": "0.0.0",
+  "name": "LawDocManagerFrontEnd",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
